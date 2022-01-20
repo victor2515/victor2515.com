@@ -1,0 +1,46 @@
+body {
+    background-color:chocolate;
+    text-align: center;
+
+}
+
+#banner {
+    background-color: bisque;
+    text-align: center;
+    margin-top: 75px;
+    padding: 2px;
+}
+
+#SpongeCake {
+    height: 450px;
+}
+
+#me {
+    color:rgb(53, 48, 43);
+    font-weight: bold;
+    font-size: 100px;
+}
+
+h1 {
+    font-size: 30px;
+    color: rgb(71, 45, 12);
+    font-weight: bold;
+}
+
+p, li {
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(14, 8, 1);
+    list-style-position:inside;
+}
+
+input, button {
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(14, 8, 1);
+    background-color:rgb(175, 140, 97)
+}
+
+#second {
+    padding-top: 30px;
+}
